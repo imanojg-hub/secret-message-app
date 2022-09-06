@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+  input {
+    width: 50% !important;
+  }
+}
+@media (max-width: 500px) {
+  input {
+    width: 80% !important;
+  }
+  .btn{
+    padding: 4px 25px !important ;
+  }
+}
